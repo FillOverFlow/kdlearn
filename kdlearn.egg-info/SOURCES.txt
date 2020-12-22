@@ -1,0 +1,7 @@
+setup.py
+kdlearn/__init__.py
+kdlearn/myfunctions.py
+kdlearn.egg-info/PKG-INFO
+kdlearn.egg-info/SOURCES.txt
+kdlearn.egg-info/dependency_links.txt
+kdlearn.egg-info/top_level.txt
